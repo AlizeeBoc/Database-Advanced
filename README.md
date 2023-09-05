@@ -577,4 +577,3 @@ solution: `4, Paris`
 
 
 ## Are you done? Amazing!
-![](../_assets/clap-clap-clap.gif)
