@@ -3,7 +3,7 @@
 # SQL questionnaire
 
 ## Setup
-Import this [fake database content](mysqlsampledatabase.zip) into your database.
+Import this [fake database content](mysqlsampledatabase.sql) into your database.
 
 Below you will find a list of questions.
 
